@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
-- 🌱 I’m currently learning Algorithms, Web Front-end skills. 
+- 🌱 I’m currently learning Algorithms, Web Front-end skills. <br>
 - 📫 How to reach me: chungup5495@gmail.com
 <p align="center"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsscoderati&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
