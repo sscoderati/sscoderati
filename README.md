@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Felix&fontSize=70&animation=twinkling)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sscoderati&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blizzrd)](https://solved.ac/blizzrd)
 ### Hi there 👋, my name is Felix
 #### I am a student interested in WEB, App, ML!
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -20,5 +22,5 @@
 - 🌱 I’m currently learning Algorithms, Web Front-end skills. 
 - 📫 How to reach me: chungup5495@gmail.com
 <p align="center"> 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsscoderati&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsscoderati&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
