@@ -6,12 +6,12 @@
 #### I am a student interested in WEB, App, ML!
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Experienced Skills </p>
+<p align="center">🔧 Experienced Skills 🔧</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-<p align="center"> Tasted Skills </p>
+<p align="center">🔨 Tasted Skills 🔨</p>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
+
+<h3 align="center">✨ About Me ✨</h3>
 <p align="center">
   <a href="https://velog.io/@sscoderati"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sscoderati"/></a>&nbsp
   <a href="https://www.instagram.com/changguitar_c/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/changguitar_c/"/></a>&nbsp
