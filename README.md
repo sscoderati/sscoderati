@@ -22,7 +22,7 @@
 
 <h3 align="center">✨ About Me ✨</h3>
 <p align="center">
-  <a href="https://velog.io/@sscoderati"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sscoderati"/></a>&nbsp
+  <a href="https://sscoderati.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://sscoderati.github.io"/></a>&nbsp
   <a href="https://www.instagram.com/changguitar_c/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/changguitar_c/"/></a>&nbsp
   <a href="mailto:chungup5495@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chungup5495@gmail.com"/></a>
 </p>
