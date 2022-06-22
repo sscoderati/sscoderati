@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Felix&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Cheshier&fontSize=70&animation=twinkling)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sscoderati&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blizzrd)](https://solved.ac/blizzrd)
-### Hi there 👋, my name is Felix
+### Hi there 👋, my name is Cheshier
 #### I am a student interested in WEB, App, ML!
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
