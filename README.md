@@ -31,9 +31,3 @@
 <code><img width=40 height=40 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png" alt="GitHub" /></code>
 <code><img width=40 height=40 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640152045/noticon/albswwsjaaxvxbyhmwig.png" alt="Discord" /></code>
 <code><img width=40 height=40 src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1699009388/noticon/coocymgvio0j0ojvchas.png" alt="Gather" /></code>
-
-
-<p align="center">
-  <a href="https://sscoderati.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://sscoderati.github.io"/></a>&nbsp
-  <a href="mailto:chungup5495@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chungup5495@gmail.com"/></a>
-</p>
